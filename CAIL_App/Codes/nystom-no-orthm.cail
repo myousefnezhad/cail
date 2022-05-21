@@ -1,0 +1,19 @@
+Begin
+F(2)
+R(2)
+M(1)
+M(1)
+F(3)
+M(8)
+If
+    M(6)
+Else 
+   M(7)
+End
+R(1)
+While
+    F(1)
+    M(1)
+End
+F(5)
+End

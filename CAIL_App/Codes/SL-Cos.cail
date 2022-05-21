@@ -1,0 +1,8 @@
+Begin
+F(6)
+M(10)
+While
+    M(11)
+    F(7)
+End
+End

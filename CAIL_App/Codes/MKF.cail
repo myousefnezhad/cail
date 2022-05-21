@@ -1,0 +1,10 @@
+Begin
+While
+    R(1)
+    M(19)
+    M(18)
+    F(9)
+    F(4)
+End
+F(1)
+End

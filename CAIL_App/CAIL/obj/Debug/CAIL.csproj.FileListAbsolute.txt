@@ -1,0 +1,9 @@
+G:\CAIL\CAIL\bin\Debug\CAIL.exe.config
+G:\CAIL\CAIL\bin\Debug\CAIL.exe
+G:\CAIL\CAIL\bin\Debug\CAIL.pdb
+G:\CAIL\CAIL\obj\Debug\CAIL.csprojResolveAssemblyReference.cache
+G:\CAIL\CAIL\obj\Debug\CAIL.Properties.Resources.resources
+G:\CAIL\CAIL\obj\Debug\CAIL.csproj.GenerateResource.Cache
+G:\CAIL\CAIL\obj\Debug\CAIL.exe
+G:\CAIL\CAIL\obj\Debug\CAIL.pdb
+G:\CAIL\CAIL\obj\Debug\CAIL.frmMain.resources
